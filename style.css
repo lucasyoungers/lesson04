@@ -1,0 +1,14 @@
+[href="google.com"] {
+    color: red;
+}
+
+button, h1 {
+    box-shadow: 3px 3px grey;
+    border: 3px;
+}
+
+button:hover {
+    color: rgba(180, 201, 66, 0.5);
+    box-shadow: 10px 10px black;
+    transition: all 0.3s ease;
+}

@@ -55,3 +55,7 @@ a:hover {
 #design-selection {
     width: 500px;
 }
+
+role[slogan] {
+    color: red;
+}
